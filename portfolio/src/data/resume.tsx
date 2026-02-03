@@ -99,9 +99,9 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
         {
-          type: "Package",
+          type: "Source",
           href: "https://github.com/Nikhil-d-s/SensorTower-Dashboard",
-          icon: <Icons.globe className="size-3" />,
+          icon: <Icons.github className="size-3" />,
         },
 
       ],
