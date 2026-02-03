@@ -100,7 +100,7 @@ export const DATA = {
         },
         {
           type: "Package",
-          href: "https://pypi.org/project/contextmemory/",
+          href: "https://github.com/Nikhil-d-s/SensorTower-Dashboard",
           icon: <Icons.globe className="size-3" />,
         },
 
